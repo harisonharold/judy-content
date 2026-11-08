@@ -1,0 +1,1263 @@
+{
+ "version": 2,
+ "generatedOn": "2026-11-07",
+ "notes": "Seed items written by Judy in the style of exam tasks. Not official exam content. Quality values are initial editor estimates; the curator replaces them with measured signals.",
+ "items": [
+  {
+   "id": "a1-ce-01",
+   "skill": "READING",
+   "level": "A1",
+   "topic": "daily life",
+   "prompt": "Lisez le message :\n« Salut Karim ! Le cours de français commence à 18 h, pas à 17 h. À ce soir ! — Léa »\n\nÀ quelle heure commence le cours ?",
+   "choices": [
+    "17 h",
+    "18 h",
+    "19 h"
+   ],
+   "answer": 1,
+   "explanation": "« commence à 18 h, pas à 17 h » means the class starts at 6 p.m. 18 h = 6 p.m.",
+   "source": {
+    "title": "Judy original practice item",
+    "url": "",
+    "license": "JUDY_ORIGINAL"
+   },
+   "basedOn": [
+    {
+     "title": "Council of Europe — CEFR Companion Volume (2020)",
+     "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+     "license": "LINK_ONLY"
+    },
+    {
+     "title": "France Éducation international — TCF Canada",
+     "url": "https://www.france-education-international.fr/test/tcf-canada",
+     "license": "LINK_ONLY"
+    }
+   ],
+   "vocab": [
+    {
+     "fr": "le cours",
+     "en": "the class"
+    },
+    {
+     "fr": "commencer",
+     "en": "to start"
+    },
+    {
+     "fr": "ce soir",
+     "en": "this evening"
+    }
+   ],
+   "quality": {
+    "accuracy": 0.8,
+    "examFit": 0.7,
+    "clarity": 0.8,
+    "learnerSignal": 0.5
+   },
+   "reviewedOn": "2026-11-07"
+  },
+  {
+   "id": "a1-ce-02",
+   "skill": "READING",
+   "level": "A1",
+   "topic": "signs",
+   "prompt": "Panneau à l'entrée d'un magasin :\n« Ouvert du lundi au samedi, de 9 h à 20 h. Fermé le dimanche. »\n\nQuand le magasin est-il fermé ?",
+   "choices": [
+    "Le lundi",
+    "Le samedi",
+    "Le dimanche"
+   ],
+   "answer": 2,
+   "explanation": "« Fermé le dimanche » = closed on Sunday.",
+   "source": {
+    "title": "Judy original practice item",
+    "url": "",
+    "license": "JUDY_ORIGINAL"
+   },
+   "basedOn": [
+    {
+     "title": "Council of Europe — CEFR Companion Volume (2020)",
+     "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+     "license": "LINK_ONLY"
+    },
+    {
+     "title": "Le français des affaires (CCI Paris IDF) — TEF Canada",
+     "url": "https://www.lefrancaisdesaffaires.fr/tests-diplomes/test-evaluation-francais-tef/tef-canada/",
+     "license": "LINK_ONLY"
+    }
+   ],
+   "vocab": [
+    {
+     "fr": "ouvert",
+     "en": "open"
+    },
+    {
+     "fr": "fermé",
+     "en": "closed"
+    },
+    {
+     "fr": "le dimanche",
+     "en": "on Sunday"
+    }
+   ],
+   "quality": {
+    "accuracy": 0.8,
+    "examFit": 0.7,
+    "clarity": 0.8,
+    "learnerSignal": 0.5
+   },
+   "reviewedOn": "2026-11-07"
+  },
+  {
+   "id": "a1-co-01",
+   "skill": "LISTENING",
+   "level": "A1",
+   "topic": "shopping",
+   "prompt": "Bonjour, je voudrais deux baguettes et un croissant, s'il vous plaît.||Qu'est-ce que la cliente achète ?",
+   "choices": [
+    "Deux croissants et une baguette",
+    "Deux baguettes et un croissant",
+    "Trois baguettes"
+   ],
+   "answer": 1,
+   "explanation": "« deux baguettes et un croissant » = two baguettes and one croissant. Listen for the number before each noun.",
+   "source": {
+    "title": "Judy original practice item",
+    "url": "",
+    "license": "JUDY_ORIGINAL"
+   },
+   "basedOn": [
+    {
+     "title": "Council of Europe — CEFR Companion Volume (2020)",
+     "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+     "license": "LINK_ONLY"
+    },
+    {
+     "title": "France Éducation international — TCF Canada",
+     "url": "https://www.france-education-international.fr/test/tcf-canada",
+     "license": "LINK_ONLY"
+    }
+   ],
+   "vocab": [
+    {
+     "fr": "je voudrais",
+     "en": "I would like"
+    },
+    {
+     "fr": "une baguette",
+     "en": "a baguette"
+    },
+    {
+     "fr": "s'il vous plaît",
+     "en": "please"
+    }
+   ],
+   "quality": {
+    "accuracy": 0.8,
+    "examFit": 0.7,
+    "clarity": 0.8,
+    "learnerSignal": 0.5
+   },
+   "reviewedOn": "2026-11-07"
+  },
+  {
+   "id": "a1-co-02",
+   "skill": "LISTENING",
+   "level": "A1",
+   "topic": "directions",
+   "prompt": "Pour aller à la bibliothèque, tournez à gauche, puis continuez tout droit jusqu'au feu.||Où faut-il tourner d'abord ?",
+   "choices": [
+    "À droite",
+    "À gauche",
+    "Au feu"
+   ],
+   "answer": 1,
+   "explanation": "« tournez à gauche » = turn left. « tout droit » = straight ahead.",
+   "source": {
+    "title": "Judy original practice item",
+    "url": "",
+    "license": "JUDY_ORIGINAL"
+   },
+   "basedOn": [
+    {
+     "title": "Council of Europe — CEFR Companion Volume (2020)",
+     "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+     "license": "LINK_ONLY"
+    },
+    {
+     "title": "Le français des affaires (CCI Paris IDF) — TEF Canada",
+     "url": "https://www.lefrancaisdesaffaires.fr/tests-diplomes/test-evaluation-francais-tef/tef-canada/",
+     "license": "LINK_ONLY"
+    }
+   ],
+   "vocab": [
+    {
+     "fr": "la bibliothèque",
+     "en": "the library"
+    },
+    {
+     "fr": "tourner à gauche",
+     "en": "to turn left"
+    },
+    {
+     "fr": "tout droit",
+     "en": "straight ahead"
+    },
+    {
+     "fr": "le feu",
+     "en": "the traffic light"
+    }
+   ],
+   "quality": {
+    "accuracy": 0.8,
+    "examFit": 0.7,
+    "clarity": 0.8,
+    "learnerSignal": 0.5
+   },
+   "reviewedOn": "2026-11-07"
+  },
+  {
+   "id": "a1-eo-01",
+   "skill": "SPEAKING",
+   "level": "A1",
+   "topic": "greetings",
+   "prompt": "L'examinateur dit : « Bonjour, comment vous appelez-vous ? »\n\nQuelle réponse est correcte ?",
+   "choices": [
+    "Je m'appelle Amina.",
+    "Je suis appelle Amina.",
+    "Moi appelle Amina."
+   ],
+   "answer": 0,
+   "explanation": "Use « Je m'appelle » + your name.",
+   "source": {
+    "title": "Judy original practice item",
+    "url": "",
+    "license": "JUDY_ORIGINAL"
+   },
+   "basedOn": [
+    {
+     "title": "Council of Europe — CEFR Companion Volume (2020)",
+     "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+     "license": "LINK_ONLY"
+    },
+    {
+     "title": "France Éducation international — TCF Canada",
+     "url": "https://www.france-education-international.fr/test/tcf-canada",
+     "license": "LINK_ONLY"
+    }
+   ],
+   "vocab": [
+    {
+     "fr": "s'appeler",
+     "en": "to be called"
+    },
+    {
+     "fr": "comment",
+     "en": "how"
+    }
+   ],
+   "quality": {
+    "accuracy": 0.8,
+    "examFit": 0.7,
+    "clarity": 0.8,
+    "learnerSignal": 0.5
+   },
+   "reviewedOn": "2026-11-07"
+  },
+  {
+   "id": "a1-eo-02",
+   "skill": "SPEAKING",
+   "level": "A1",
+   "topic": "personal info",
+   "prompt": "L'examinateur : « Où habitez-vous ? »\n\nQuelle réponse est correcte ?",
+   "choices": [
+    "J'habite à Ottawa.",
+    "Je habite à Ottawa.",
+    "J'habite en Ottawa."
+   ],
+   "answer": 0,
+   "explanation": "« je » becomes « j' » before a vowel or h. Use « à » before a city: « à Ottawa ».",
+   "source": {
+    "title": "Judy original practice item",
+    "url": "",
+    "license": "JUDY_ORIGINAL"
+   },
+   "basedOn": [
+    {
+     "title": "Council of Europe — CEFR Companion Volume (2020)",
+     "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+     "license": "LINK_ONLY"
+    },
+    {
+     "title": "Le français des affaires (CCI Paris IDF) — TEF Canada",
+     "url": "https://www.lefrancaisdesaffaires.fr/tests-diplomes/test-evaluation-francais-tef/tef-canada/",
+     "license": "LINK_ONLY"
+    }
+   ],
+   "vocab": [
+    {
+     "fr": "habiter",
+     "en": "to live"
+    },
+    {
+     "fr": "où",
+     "en": "where"
+    }
+   ],
+   "quality": {
+    "accuracy": 0.8,
+    "examFit": 0.7,
+    "clarity": 0.8,
+    "learnerSignal": 0.5
+   },
+   "reviewedOn": "2026-11-07"
+  },
+  {
+   "id": "a1-ee-01",
+   "skill": "WRITING",
+   "level": "A1",
+   "topic": "forms",
+   "prompt": "Sur un formulaire, « Date de naissance » demande :",
+   "choices": [
+    "votre adresse",
+    "le jour où vous êtes né(e)",
+    "votre numéro de téléphone"
+   ],
+   "answer": 1,
+   "explanation": "« naissance » = birth. « Date de naissance » = date of birth.",
+   "source": {
+    "title": "Judy original practice item",
+    "url": "",
+    "license": "JUDY_ORIGINAL"
+   },
+   "basedOn": [
+    {
+     "title": "Council of Europe — CEFR Companion Volume (2020)",
+     "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+     "license": "LINK_ONLY"
+    },
+    {
+     "title": "France Éducation international — TCF Canada",
+     "url": "https://www.france-education-international.fr/test/tcf-canada",
+     "license": "LINK_ONLY"
+    }
+   ],
+   "vocab": [
+    {
+     "fr": "un formulaire",
+     "en": "a form"
+    },
+    {
+     "fr": "la naissance",
+     "en": "birth"
+    },
+    {
+     "fr": "la date",
+     "en": "the date"
+    }
+   ],
+   "quality": {
+    "accuracy": 0.8,
+    "examFit": 0.7,
+    "clarity": 0.8,
+    "learnerSignal": 0.5
+   },
+   "reviewedOn": "2026-11-07"
+  },
+  {
+   "id": "a2-ce-01",
+   "skill": "READING",
+   "level": "A2",
+   "topic": "housing",
+   "prompt": "Annonce :\n« Appartement 2 pièces, Ottawa. 1 400 $ par mois, chauffage inclus. Libre le 1er juillet. Animaux non acceptés. »\n\nQuelle phrase est vraie ?",
+   "choices": [
+    "Le chauffage coûte en plus.",
+    "On peut avoir un chat.",
+    "L'appartement est disponible en juillet."
+   ],
+   "answer": 2,
+   "explanation": "« Libre le 1er juillet » = available on July 1. « chauffage inclus » = heating included. « Animaux non acceptés » = no pets.",
+   "source": {
+    "title": "Judy original practice item",
+    "url": "",
+    "license": "JUDY_ORIGINAL"
+   },
+   "basedOn": [
+    {
+     "title": "Council of Europe — CEFR Companion Volume (2020)",
+     "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+     "license": "LINK_ONLY"
+    },
+    {
+     "title": "Le français des affaires (CCI Paris IDF) — TEF Canada",
+     "url": "https://www.lefrancaisdesaffaires.fr/tests-diplomes/test-evaluation-francais-tef/tef-canada/",
+     "license": "LINK_ONLY"
+    }
+   ],
+   "vocab": [
+    {
+     "fr": "une annonce",
+     "en": "an ad"
+    },
+    {
+     "fr": "le chauffage",
+     "en": "heating"
+    },
+    {
+     "fr": "inclus",
+     "en": "included"
+    },
+    {
+     "fr": "libre",
+     "en": "available"
+    }
+   ],
+   "quality": {
+    "accuracy": 0.8,
+    "examFit": 0.7,
+    "clarity": 0.8,
+    "learnerSignal": 0.5
+   },
+   "reviewedOn": "2026-11-07"
+  },
+  {
+   "id": "a2-ce-02",
+   "skill": "READING",
+   "level": "A2",
+   "topic": "work",
+   "prompt": "Message de votre gestionnaire :\n« Demain, la réunion est annulée. Nous la reportons à jeudi, même heure. »\n\nQue se passe-t-il ?",
+   "choices": [
+    "La réunion a lieu demain.",
+    "La réunion change de jour.",
+    "La réunion change d'heure."
+   ],
+   "answer": 1,
+   "explanation": "« annulée » = cancelled. « reportons à jeudi, même heure » = moved to Thursday, same time.",
+   "source": {
+    "title": "Judy original practice item",
+    "url": "",
+    "license": "JUDY_ORIGINAL"
+   },
+   "basedOn": [
+    {
+     "title": "Council of Europe — CEFR Companion Volume (2020)",
+     "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+     "license": "LINK_ONLY"
+    },
+    {
+     "title": "France Éducation international — TCF Canada",
+     "url": "https://www.france-education-international.fr/test/tcf-canada",
+     "license": "LINK_ONLY"
+    }
+   ],
+   "vocab": [
+    {
+     "fr": "la réunion",
+     "en": "the meeting"
+    },
+    {
+     "fr": "annulé",
+     "en": "cancelled"
+    },
+    {
+     "fr": "reporter",
+     "en": "to postpone"
+    },
+    {
+     "fr": "le gestionnaire",
+     "en": "the manager"
+    }
+   ],
+   "quality": {
+    "accuracy": 0.8,
+    "examFit": 0.7,
+    "clarity": 0.8,
+    "learnerSignal": 0.5
+   },
+   "reviewedOn": "2026-11-07"
+  },
+  {
+   "id": "a2-co-01",
+   "skill": "LISTENING",
+   "level": "A2",
+   "topic": "transport",
+   "prompt": "Attention : en raison de travaux, la ligne 1 ne circule pas entre les stations Lyon et Rideau ce week-end. Des autobus de remplacement sont disponibles.||Que doivent faire les passagers ce week-end ?",
+   "choices": [
+    "Prendre un autobus de remplacement",
+    "Attendre lundi pour voyager",
+    "Acheter un nouveau billet"
+   ],
+   "answer": 0,
+   "explanation": "« Des autobus de remplacement sont disponibles » = replacement buses are available.",
+   "source": {
+    "title": "Judy original practice item",
+    "url": "",
+    "license": "JUDY_ORIGINAL"
+   },
+   "basedOn": [
+    {
+     "title": "Council of Europe — CEFR Companion Volume (2020)",
+     "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+     "license": "LINK_ONLY"
+    },
+    {
+     "title": "Le français des affaires (CCI Paris IDF) — TEF Canada",
+     "url": "https://www.lefrancaisdesaffaires.fr/tests-diplomes/test-evaluation-francais-tef/tef-canada/",
+     "license": "LINK_ONLY"
+    }
+   ],
+   "vocab": [
+    {
+     "fr": "des travaux",
+     "en": "construction work"
+    },
+    {
+     "fr": "circuler",
+     "en": "to run (transit)"
+    },
+    {
+     "fr": "le remplacement",
+     "en": "replacement"
+    }
+   ],
+   "quality": {
+    "accuracy": 0.8,
+    "examFit": 0.7,
+    "clarity": 0.8,
+    "learnerSignal": 0.5
+   },
+   "reviewedOn": "2026-11-07"
+  },
+  {
+   "id": "a2-co-02",
+   "skill": "LISTENING",
+   "level": "A2",
+   "topic": "appointments",
+   "prompt": "Bonjour, c'est la clinique dentaire. Votre rendez-vous de mardi est déplacé à mercredi, 14 h 30. Merci de nous rappeler pour confirmer.||Que doit faire la personne ?",
+   "choices": [
+    "Venir mardi",
+    "Rappeler la clinique",
+    "Annuler le rendez-vous"
+   ],
+   "answer": 1,
+   "explanation": "« Merci de nous rappeler pour confirmer » = please call us back to confirm.",
+   "source": {
+    "title": "Judy original practice item",
+    "url": "",
+    "license": "JUDY_ORIGINAL"
+   },
+   "basedOn": [
+    {
+     "title": "Council of Europe — CEFR Companion Volume (2020)",
+     "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+     "license": "LINK_ONLY"
+    },
+    {
+     "title": "France Éducation international — TCF Canada",
+     "url": "https://www.france-education-international.fr/test/tcf-canada",
+     "license": "LINK_ONLY"
+    }
+   ],
+   "vocab": [
+    {
+     "fr": "le rendez-vous",
+     "en": "the appointment"
+    },
+    {
+     "fr": "déplacer",
+     "en": "to move"
+    },
+    {
+     "fr": "rappeler",
+     "en": "to call back"
+    }
+   ],
+   "quality": {
+    "accuracy": 0.8,
+    "examFit": 0.7,
+    "clarity": 0.8,
+    "learnerSignal": 0.5
+   },
+   "reviewedOn": "2026-11-07"
+  },
+  {
+   "id": "a2-eo-01",
+   "skill": "SPEAKING",
+   "level": "A2",
+   "topic": "daily routine",
+   "prompt": "L'examinateur : « Qu'est-ce que vous avez fait le week-end dernier ? »\n\nQuelle réponse est correcte ?",
+   "choices": [
+    "Je vais au parc avec mes enfants.",
+    "Je suis allé au parc avec mes enfants.",
+    "J'ai allé au parc avec mes enfants."
+   ],
+   "answer": 1,
+   "explanation": "Past events use the passé composé. « aller » uses « être »: « je suis allé(e) ».",
+   "source": {
+    "title": "Judy original practice item",
+    "url": "",
+    "license": "JUDY_ORIGINAL"
+   },
+   "basedOn": [
+    {
+     "title": "Council of Europe — CEFR Companion Volume (2020)",
+     "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+     "license": "LINK_ONLY"
+    },
+    {
+     "title": "Le français des affaires (CCI Paris IDF) — TEF Canada",
+     "url": "https://www.lefrancaisdesaffaires.fr/tests-diplomes/test-evaluation-francais-tef/tef-canada/",
+     "license": "LINK_ONLY"
+    }
+   ],
+   "vocab": [
+    {
+     "fr": "le week-end dernier",
+     "en": "last weekend"
+    },
+    {
+     "fr": "je suis allé(e)",
+     "en": "I went"
+    }
+   ],
+   "quality": {
+    "accuracy": 0.8,
+    "examFit": 0.7,
+    "clarity": 0.8,
+    "learnerSignal": 0.5
+   },
+   "reviewedOn": "2026-11-07"
+  },
+  {
+   "id": "a2-ee-01",
+   "skill": "WRITING",
+   "level": "A2",
+   "topic": "messages",
+   "prompt": "Vous écrivez à votre voisin pour l'inviter. Quelle phrase est correcte ?",
+   "choices": [
+    "Je t'invite à manger samedi soir chez moi.",
+    "Je te invite à manger samedi soir chez moi.",
+    "Je t'invites à manger samedi soir chez moi."
+   ],
+   "answer": 0,
+   "explanation": "« te » becomes « t' » before a vowel. With « je », the verb is « invite » (no s).",
+   "source": {
+    "title": "Judy original practice item",
+    "url": "",
+    "license": "JUDY_ORIGINAL"
+   },
+   "basedOn": [
+    {
+     "title": "Council of Europe — CEFR Companion Volume (2020)",
+     "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+     "license": "LINK_ONLY"
+    },
+    {
+     "title": "France Éducation international — TCF Canada",
+     "url": "https://www.france-education-international.fr/test/tcf-canada",
+     "license": "LINK_ONLY"
+    }
+   ],
+   "vocab": [
+    {
+     "fr": "inviter",
+     "en": "to invite"
+    },
+    {
+     "fr": "le voisin",
+     "en": "the neighbour"
+    },
+    {
+     "fr": "samedi soir",
+     "en": "Saturday evening"
+    }
+   ],
+   "quality": {
+    "accuracy": 0.8,
+    "examFit": 0.7,
+    "clarity": 0.8,
+    "learnerSignal": 0.5
+   },
+   "reviewedOn": "2026-11-07"
+  },
+  {
+   "id": "b1-ce-01",
+   "skill": "READING",
+   "level": "B1",
+   "topic": "work",
+   "prompt": "Courriel :\n« Madame, Monsieur, suite à notre entretien du 3 mars, nous avons le plaisir de vous proposer le poste de commis administratif. Merci de nous confirmer votre réponse avant le 10 mars. »\n\nQue doit faire la personne ?",
+   "choices": [
+    "Passer un deuxième entretien",
+    "Répondre avant le 10 mars",
+    "Envoyer son CV le 3 mars"
+   ],
+   "answer": 1,
+   "explanation": "« Merci de nous confirmer votre réponse avant le 10 mars » = please confirm your answer before March 10.",
+   "source": {
+    "title": "Judy original practice item",
+    "url": "",
+    "license": "JUDY_ORIGINAL"
+   },
+   "basedOn": [
+    {
+     "title": "Council of Europe — CEFR Companion Volume (2020)",
+     "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+     "license": "LINK_ONLY"
+    },
+    {
+     "title": "Le français des affaires (CCI Paris IDF) — TEF Canada",
+     "url": "https://www.lefrancaisdesaffaires.fr/tests-diplomes/test-evaluation-francais-tef/tef-canada/",
+     "license": "LINK_ONLY"
+    }
+   ],
+   "vocab": [
+    {
+     "fr": "un entretien",
+     "en": "an interview"
+    },
+    {
+     "fr": "le poste",
+     "en": "the position"
+    },
+    {
+     "fr": "confirmer",
+     "en": "to confirm"
+    }
+   ],
+   "quality": {
+    "accuracy": 0.8,
+    "examFit": 0.7,
+    "clarity": 0.8,
+    "learnerSignal": 0.5
+   },
+   "reviewedOn": "2026-11-07"
+  },
+  {
+   "id": "b1-co-01",
+   "skill": "LISTENING",
+   "level": "B1",
+   "topic": "health",
+   "prompt": "Pour prendre rendez-vous avec un médecin, appuyez sur le 1. Pour renouveler une ordonnance, appuyez sur le 2. En cas d'urgence, raccrochez et composez le 911.||Vous voulez renouveler une ordonnance. Que faites-vous ?",
+   "choices": [
+    "J'appuie sur le 1.",
+    "J'appuie sur le 2.",
+    "Je compose le 911."
+   ],
+   "answer": 1,
+   "explanation": "« renouveler une ordonnance » = renew a prescription → press 2.",
+   "source": {
+    "title": "Judy original practice item",
+    "url": "",
+    "license": "JUDY_ORIGINAL"
+   },
+   "basedOn": [
+    {
+     "title": "Council of Europe — CEFR Companion Volume (2020)",
+     "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+     "license": "LINK_ONLY"
+    },
+    {
+     "title": "France Éducation international — TCF Canada",
+     "url": "https://www.france-education-international.fr/test/tcf-canada",
+     "license": "LINK_ONLY"
+    }
+   ],
+   "vocab": [
+    {
+     "fr": "renouveler",
+     "en": "to renew"
+    },
+    {
+     "fr": "une ordonnance",
+     "en": "a prescription"
+    },
+    {
+     "fr": "raccrocher",
+     "en": "to hang up"
+    }
+   ],
+   "quality": {
+    "accuracy": 0.8,
+    "examFit": 0.7,
+    "clarity": 0.8,
+    "learnerSignal": 0.5
+   },
+   "reviewedOn": "2026-11-07"
+  },
+  {
+   "id": "b1-eo-01",
+   "skill": "SPEAKING",
+   "level": "B1",
+   "topic": "describing",
+   "prompt": "L'examinateur : « Pouvez-vous me parler de votre quartier ? »\n\nQuelle réponse montre le mieux votre niveau ?",
+   "choices": [
+    "Oui.",
+    "J'habite à Scarborough depuis deux ans. C'est un quartier calme, avec beaucoup de parcs, mais les transports sont un peu lents.",
+    "Mon quartier, c'est bien, c'est bien, c'est bien."
+   ],
+   "answer": 1,
+   "explanation": "Give details and link ideas (« avec », « mais »). Short or repeated answers cannot show your level.",
+   "source": {
+    "title": "Judy original practice item",
+    "url": "",
+    "license": "JUDY_ORIGINAL"
+   },
+   "basedOn": [
+    {
+     "title": "Council of Europe — CEFR Companion Volume (2020)",
+     "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+     "license": "LINK_ONLY"
+    },
+    {
+     "title": "Le français des affaires (CCI Paris IDF) — TEF Canada",
+     "url": "https://www.lefrancaisdesaffaires.fr/tests-diplomes/test-evaluation-francais-tef/tef-canada/",
+     "license": "LINK_ONLY"
+    }
+   ],
+   "vocab": [
+    {
+     "fr": "le quartier",
+     "en": "the neighbourhood"
+    },
+    {
+     "fr": "calme",
+     "en": "quiet"
+    },
+    {
+     "fr": "les transports",
+     "en": "public transit"
+    }
+   ],
+   "quality": {
+    "accuracy": 0.8,
+    "examFit": 0.7,
+    "clarity": 0.8,
+    "learnerSignal": 0.5
+   },
+   "reviewedOn": "2026-11-07"
+  },
+  {
+   "id": "b1-ee-01",
+   "skill": "WRITING",
+   "level": "B1",
+   "topic": "connectors",
+   "prompt": "Choisissez le bon mot :\n« Je voudrais m'inscrire au cours, ___ je travaille le soir. »",
+   "choices": [
+    "mais",
+    "donc",
+    "parce que"
+   ],
+   "answer": 0,
+   "explanation": "The two ideas are in contrast (I want to enrol / I work evenings), so use « mais » (but).",
+   "source": {
+    "title": "Judy original practice item",
+    "url": "",
+    "license": "JUDY_ORIGINAL"
+   },
+   "basedOn": [
+    {
+     "title": "Council of Europe — CEFR Companion Volume (2020)",
+     "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+     "license": "LINK_ONLY"
+    },
+    {
+     "title": "France Éducation international — TCF Canada",
+     "url": "https://www.france-education-international.fr/test/tcf-canada",
+     "license": "LINK_ONLY"
+    }
+   ],
+   "vocab": [
+    {
+     "fr": "s'inscrire",
+     "en": "to enrol"
+    },
+    {
+     "fr": "mais",
+     "en": "but"
+    },
+    {
+     "fr": "le soir",
+     "en": "in the evening"
+    }
+   ],
+   "quality": {
+    "accuracy": 0.8,
+    "examFit": 0.7,
+    "clarity": 0.8,
+    "learnerSignal": 0.5
+   },
+   "reviewedOn": "2026-11-07"
+  },
+  {
+   "id": "b2-ce-01",
+   "skill": "READING",
+   "level": "B2",
+   "topic": "opinion",
+   "prompt": "« Le télétravail permet de gagner du temps, certes, mais il isole les employés et brouille la frontière entre vie professionnelle et vie privée. »\n\nQuelle est la position de l'auteur ?",
+   "choices": [
+    "Il est entièrement favorable au télétravail.",
+    "Il reconnaît un avantage mais insiste sur les inconvénients.",
+    "Il pense que le télétravail n'a aucun avantage."
+   ],
+   "answer": 1,
+   "explanation": "« certes…, mais… » = admittedly…, but… The author accepts one advantage, then stresses the problems.",
+   "source": {
+    "title": "Judy original practice item",
+    "url": "",
+    "license": "JUDY_ORIGINAL"
+   },
+   "basedOn": [
+    {
+     "title": "Council of Europe — CEFR Companion Volume (2020)",
+     "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+     "license": "LINK_ONLY"
+    },
+    {
+     "title": "Le français des affaires (CCI Paris IDF) — TEF Canada",
+     "url": "https://www.lefrancaisdesaffaires.fr/tests-diplomes/test-evaluation-francais-tef/tef-canada/",
+     "license": "LINK_ONLY"
+    }
+   ],
+   "vocab": [
+    {
+     "fr": "le télétravail",
+     "en": "remote work"
+    },
+    {
+     "fr": "certes",
+     "en": "admittedly"
+    },
+    {
+     "fr": "brouiller",
+     "en": "to blur"
+    },
+    {
+     "fr": "la vie privée",
+     "en": "private life"
+    }
+   ],
+   "quality": {
+    "accuracy": 0.8,
+    "examFit": 0.7,
+    "clarity": 0.8,
+    "learnerSignal": 0.5
+   },
+   "reviewedOn": "2026-11-07"
+  },
+  {
+   "id": "b2-co-01",
+   "skill": "LISTENING",
+   "level": "B2",
+   "topic": "news",
+   "prompt": "Le conseil municipal a adopté hier un budget prévoyant une hausse de 3 % des taxes foncières, principalement pour financer le transport en commun.||Pourquoi les taxes augmentent-elles ?",
+   "choices": [
+    "Pour financer le transport en commun",
+    "Pour construire des écoles",
+    "Pour réduire la dette"
+   ],
+   "answer": 0,
+   "explanation": "« principalement pour financer le transport en commun » = mainly to fund public transit.",
+   "source": {
+    "title": "Judy original practice item",
+    "url": "",
+    "license": "JUDY_ORIGINAL"
+   },
+   "basedOn": [
+    {
+     "title": "Council of Europe — CEFR Companion Volume (2020)",
+     "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+     "license": "LINK_ONLY"
+    },
+    {
+     "title": "France Éducation international — TCF Canada",
+     "url": "https://www.france-education-international.fr/test/tcf-canada",
+     "license": "LINK_ONLY"
+    }
+   ],
+   "vocab": [
+    {
+     "fr": "le conseil municipal",
+     "en": "city council"
+    },
+    {
+     "fr": "une hausse",
+     "en": "an increase"
+    },
+    {
+     "fr": "les taxes foncières",
+     "en": "property taxes"
+    },
+    {
+     "fr": "financer",
+     "en": "to fund"
+    }
+   ],
+   "quality": {
+    "accuracy": 0.8,
+    "examFit": 0.7,
+    "clarity": 0.8,
+    "learnerSignal": 0.5
+   },
+   "reviewedOn": "2026-11-07"
+  },
+  {
+   "id": "b2-eo-01",
+   "skill": "SPEAKING",
+   "level": "B2",
+   "topic": "persuasion",
+   "prompt": "Tâche : convaincre un ami de suivre des cours du soir.\n\nQuelle phrase est la plus convaincante ?",
+   "choices": [
+    "Tu devrais venir, c'est tout.",
+    "Si tu suis ces cours, tu pourras viser un meilleur poste, et en plus, les horaires sont compatibles avec ton travail.",
+    "Les cours, ça existe."
+   ],
+   "answer": 1,
+   "explanation": "Persuade with reasons and benefits: « Si tu…, tu pourras… » + « et en plus… ».",
+   "source": {
+    "title": "Judy original practice item",
+    "url": "",
+    "license": "JUDY_ORIGINAL"
+   },
+   "basedOn": [
+    {
+     "title": "Council of Europe — CEFR Companion Volume (2020)",
+     "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+     "license": "LINK_ONLY"
+    },
+    {
+     "title": "Le français des affaires (CCI Paris IDF) — TEF Canada",
+     "url": "https://www.lefrancaisdesaffaires.fr/tests-diplomes/test-evaluation-francais-tef/tef-canada/",
+     "license": "LINK_ONLY"
+    }
+   ],
+   "vocab": [
+    {
+     "fr": "convaincre",
+     "en": "to convince"
+    },
+    {
+     "fr": "les cours du soir",
+     "en": "evening classes"
+    },
+    {
+     "fr": "viser",
+     "en": "to aim for"
+    }
+   ],
+   "quality": {
+    "accuracy": 0.8,
+    "examFit": 0.7,
+    "clarity": 0.8,
+    "learnerSignal": 0.5
+   },
+   "reviewedOn": "2026-11-07"
+  },
+  {
+   "id": "b2-ee-01",
+   "skill": "WRITING",
+   "level": "B2",
+   "topic": "argument",
+   "prompt": "Quel connecteur introduit une concession ?",
+   "choices": [
+    "Par conséquent",
+    "Bien que",
+    "En effet"
+   ],
+   "answer": 1,
+   "explanation": "« Bien que » (although) introduces a concession. It is followed by the subjunctive: « bien qu'il soit… ».",
+   "source": {
+    "title": "Judy original practice item",
+    "url": "",
+    "license": "JUDY_ORIGINAL"
+   },
+   "basedOn": [
+    {
+     "title": "Council of Europe — CEFR Companion Volume (2020)",
+     "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+     "license": "LINK_ONLY"
+    },
+    {
+     "title": "France Éducation international — TCF Canada",
+     "url": "https://www.france-education-international.fr/test/tcf-canada",
+     "license": "LINK_ONLY"
+    }
+   ],
+   "vocab": [
+    {
+     "fr": "bien que",
+     "en": "although"
+    },
+    {
+     "fr": "par conséquent",
+     "en": "therefore"
+    },
+    {
+     "fr": "en effet",
+     "en": "indeed"
+    }
+   ],
+   "quality": {
+    "accuracy": 0.8,
+    "examFit": 0.7,
+    "clarity": 0.8,
+    "learnerSignal": 0.5
+   },
+   "reviewedOn": "2026-11-07"
+  },
+  {
+   "id": "c1-ce-01",
+   "skill": "READING",
+   "level": "C1",
+   "topic": "nuance",
+   "prompt": "« Si la mesure n'est pas dénuée d'intérêt, on peut néanmoins s'interroger sur sa pertinence à long terme. »\n\nQue signifie « n'est pas dénuée d'intérêt » ?",
+   "choices": [
+    "Elle est sans intérêt.",
+    "Elle présente un certain intérêt.",
+    "Elle est très coûteuse."
+   ],
+   "answer": 1,
+   "explanation": "This is understatement (litote): « pas dénuée d'intérêt » = it has some value.",
+   "source": {
+    "title": "Judy original practice item",
+    "url": "",
+    "license": "JUDY_ORIGINAL"
+   },
+   "basedOn": [
+    {
+     "title": "Council of Europe — CEFR Companion Volume (2020)",
+     "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+     "license": "LINK_ONLY"
+    },
+    {
+     "title": "Le français des affaires (CCI Paris IDF) — TEF Canada",
+     "url": "https://www.lefrancaisdesaffaires.fr/tests-diplomes/test-evaluation-francais-tef/tef-canada/",
+     "license": "LINK_ONLY"
+    }
+   ],
+   "vocab": [
+    {
+     "fr": "dénué de",
+     "en": "lacking"
+    },
+    {
+     "fr": "néanmoins",
+     "en": "nevertheless"
+    },
+    {
+     "fr": "la pertinence",
+     "en": "relevance"
+    }
+   ],
+   "quality": {
+    "accuracy": 0.8,
+    "examFit": 0.7,
+    "clarity": 0.8,
+    "learnerSignal": 0.5
+   },
+   "reviewedOn": "2026-11-07"
+  },
+  {
+   "id": "c1-ee-01",
+   "skill": "WRITING",
+   "level": "C1",
+   "topic": "grammar",
+   "prompt": "« Il est essentiel que chaque candidat ___ ses documents avant la date limite. »",
+   "choices": [
+    "fournit",
+    "fournisse",
+    "fournira"
+   ],
+   "answer": 1,
+   "explanation": "« Il est essentiel que » takes the subjunctive: « qu'il fournisse ».",
+   "source": {
+    "title": "Judy original practice item",
+    "url": "",
+    "license": "JUDY_ORIGINAL"
+   },
+   "basedOn": [
+    {
+     "title": "Council of Europe — CEFR Companion Volume (2020)",
+     "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+     "license": "LINK_ONLY"
+    },
+    {
+     "title": "France Éducation international — TCF Canada",
+     "url": "https://www.france-education-international.fr/test/tcf-canada",
+     "license": "LINK_ONLY"
+    }
+   ],
+   "vocab": [
+    {
+     "fr": "essentiel",
+     "en": "essential"
+    },
+    {
+     "fr": "fournir",
+     "en": "to provide"
+    },
+    {
+     "fr": "la date limite",
+     "en": "the deadline"
+    }
+   ],
+   "quality": {
+    "accuracy": 0.8,
+    "examFit": 0.7,
+    "clarity": 0.8,
+    "learnerSignal": 0.5
+   },
+   "reviewedOn": "2026-11-07"
+  },
+  {
+   "id": "c1-eo-01",
+   "skill": "SPEAKING",
+   "level": "C1",
+   "topic": "nuance",
+   "prompt": "Pour nuancer votre opinion devant l'examinateur, quelle formule convient le mieux ?",
+   "choices": [
+    "C'est nul.",
+    "Je dirais que c'est discutable, dans la mesure où les effets varient selon les régions.",
+    "Je suis d'accord à 100 %."
+   ],
+   "answer": 1,
+   "explanation": "At C1, show nuance: « Je dirais que… », « dans la mesure où… ». Avoid absolute or informal words.",
+   "source": {
+    "title": "Judy original practice item",
+    "url": "",
+    "license": "JUDY_ORIGINAL"
+   },
+   "basedOn": [
+    {
+     "title": "Council of Europe — CEFR Companion Volume (2020)",
+     "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+     "license": "LINK_ONLY"
+    },
+    {
+     "title": "Le français des affaires (CCI Paris IDF) — TEF Canada",
+     "url": "https://www.lefrancaisdesaffaires.fr/tests-diplomes/test-evaluation-francais-tef/tef-canada/",
+     "license": "LINK_ONLY"
+    }
+   ],
+   "vocab": [
+    {
+     "fr": "nuancer",
+     "en": "to qualify (an opinion)"
+    },
+    {
+     "fr": "discutable",
+     "en": "debatable"
+    },
+    {
+     "fr": "dans la mesure où",
+     "en": "insofar as"
+    }
+   ],
+   "quality": {
+    "accuracy": 0.8,
+    "examFit": 0.7,
+    "clarity": 0.8,
+    "learnerSignal": 0.5
+   },
+   "reviewedOn": "2026-11-07"
+  }
+ ]
+}
